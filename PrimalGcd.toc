@@ -1,0 +1,9 @@
+## Interface: 60200
+## Title: |cffff7d0aPrimalGcd|r
+## Notes: GCD indicator for PrimalaUI.
+## Dependencies: PrimalCore, SexyMap
+## OptionalDeps:
+## Author: meribold
+## Version: 0.1
+
+PrimalGcd.lua
